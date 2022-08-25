@@ -1,0 +1,48 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{MGV{\etalchar{+}}20}
+
+\bibitem[BYVM17]{backman2017blockchain}
+Jere Backman, Seppo Yrj{\"o}l{\"a}, Kristiina Valtanen, and Olli
+  M{\"a}mmel{\"a}, \emph{{Blockchain network slice broker in 5G: Slice leasing
+  in factory of the future use case}}, 2017 Internet of Things Business Models,
+  Users, and Networks, IEEE, 2017, pp.~1--8.
+
+\bibitem[FZZC20]{fan2020hybrid}
+Sizheng Fan, Hongbo Zhang, Yuchen Zeng, and Wei Cai, \emph{{Hybrid
+  Blockchain-Based Resource Trading System for Federated Learning in Edge
+  Computing}}, IEEE Internet of Things Journal (2020).
+
+\bibitem[MGV{\etalchar{+}}20]{maksymyuk2020blockchain}
+Taras Maksymyuk, Juraj Gazda, Marcel Volosin, Gabriel Bugar, Denis Horvath,
+  Mykhailo Klymash, and Mischa Dohler, \emph{{Blockchain-Empowered Framework
+  for Decentralized Network Management in 6G}}, IEEE Communications Magazine
+  \textbf{58} (2020), no.~9, 86--92.
+
+\bibitem[NKH{\etalchar{+}}19]{nour2019blockchain}
+Boubakr Nour, Adlen Ksentini, Nicolas Herbaut, Pantelis~A Frangoudis, and
+  Hassine Moungla, \emph{{A blockchain-based network slice broker for 5G
+  services}}, IEEE Networking Letters \textbf{1} (2019), no.~3, 99--102.
+
+\bibitem[WG21]{wilhelmi2021discrete}
+Francesc Wilhelmi and Lorenza Giupponi, \emph{{Discrete-Time Analysis of
+  Wireless Blockchain Networks}}, arXiv e-prints (2021), arXiv--2104.05586.
+
+\bibitem[XKO{\etalchar{+}}20]{xu2020blockchain}
+Hao Xu, Paulo~Valente Klaine, Oluwakayode Onireti, Bin Cao, Muhammad Imran, and
+  Lei Zhang, \emph{{Blockchain-enabled resource management and sharing for 6G
+  communications}}, Digital Communications and Networks \textbf{6} (2020),
+  no.~3, 261--269.
+
+\bibitem[XZS{\etalchar{+}}21]{xu2021ran}
+Hao Xu, Lei Zhang, Elaine Sun, et~al., \emph{{BE-RAN: Blockchain-enabled
+  Open-RAN with Decentralized Identity Management and Privacy-Preserving
+  Communication}}, arXiv preprint arXiv:2101.10856 (2021).
+
+\end{thebibliography}

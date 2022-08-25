@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: globecom_2021_slides_wilhelmi.aux
+The style file: amsalpha.bst
+Database file #1: bib.bib
+Warning--missing pages in fan2020hybrid
+Warning--missing pages in xu2021ran
+You've used 7 entries,
+            2624 wiz_defined-function locations,
+            599 strings with 5950 characters,
+and the built_in function-call counts, 3449 in all, are:
+= -- 311
+> -- 232
+< -- 0
++ -- 87
+- -- 87
+* -- 327
+:= -- 592
+add.period$ -- 7
+call.type$ -- 7
+change.case$ -- 59
+chr.to.int$ -- 7
+cite$ -- 9
+duplicate$ -- 105
+empty$ -- 214
+format.name$ -- 90
+if$ -- 661
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 14
+newline$ -- 32
+num.names$ -- 21
+pop$ -- 59
+preamble$ -- 1
+purify$ -- 66
+quote$ -- 0
+skip$ -- 81
+stack$ -- 0
+substring$ -- 183
+swap$ -- 13
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 56
+warning$ -- 2
+while$ -- 32
+width$ -- 10
+write$ -- 83
+(There were 2 warnings)

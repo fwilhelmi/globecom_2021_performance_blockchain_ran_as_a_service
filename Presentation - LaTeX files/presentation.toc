@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction and Related Work}{3}{0}{1}
+\beamer@sectionintoc {2}{BC-enabled dynamic RAN sharing}{7}{0}{2}
+\beamer@sectionintoc {3}{System model}{11}{0}{3}
+\beamer@sectionintoc {4}{Numerical results}{14}{0}{4}
+\beamer@sectionintoc {5}{Conclusions}{19}{0}{5}
